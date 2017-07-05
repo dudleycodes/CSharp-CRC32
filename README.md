@@ -1,2 +1,3 @@
-# CSharp-CRC32
-Calculates 32-bit Cyclic Redundancy Check
+*Cleaning out my hard drives; this project is not maintained.*
+
+Any and all documentation is inline with code.
